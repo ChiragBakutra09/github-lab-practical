@@ -1,0 +1,3 @@
+GitHub branches are independent lines of development that allow developers to experiment with new features or fix bugs in isolation from the main codebase (typically the main branch).
+Each branch acts as a lightweight pointer to a series of commits, ensuring that changes do not interfere with the stable, deployable version of the project.
+Once the changes in a branch are complete and reviewed (via a pull request), they can be merged back into the main branch to incorporate them into the project.
